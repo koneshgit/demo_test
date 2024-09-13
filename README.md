@@ -1,7 +1,6 @@
 # demo_test
 Testing dev-ops tools
 
-
 Session 1 Lab: Creating DevOps Pipelines with GitHub Actions
 Creating a GitHub Repository
 Go to https://github.com and click the Sign in button. If you already have a GitHub account, log in. If you don’t have an account, click the Create an account link and follow the instructions. 
